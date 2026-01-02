@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/', //jnanalaya.edu.np
+  base: '/jnanalaya.edu.np', //jnanalaya.edu.np (reponame)
   plugins: [react()],
 })
